@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FintechBillingApp</string>
+    <string name="recipient_format">Penerima: %1$s (%2$s)</string>
+    <string name="discount_format">-%1$s</string>
+</resources>
